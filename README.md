@@ -1,6 +1,9 @@
 # sales_data_analysis
 
-There is analysis for :
+Simple project for superstock_sales.csv file that included.
+
+
+<h3>There is analysis for :</h3>
 
 <ul>
   <li>Overall sales trend</li>
@@ -13,5 +16,7 @@ There is analysis for :
 
 <h3>Libraries</h3>
 
-Pandas,Matplotlib,Seaborn
+<li>Pandas</li>
+<li>Matplotlib</li>
+<li>Seaborn</li>
 
