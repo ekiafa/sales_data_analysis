@@ -15,8 +15,8 @@ Simple project for superstock_sales.csv file that included.
 </ul>
 
 <h3>Libraries</h3>
-
+<ul>
 <li>Pandas</li>
 <li>Matplotlib</li>
 <li>Seaborn</li>
-
+</ul>
